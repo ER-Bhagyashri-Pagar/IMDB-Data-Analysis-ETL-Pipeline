@@ -245,10 +245,6 @@ The dimensional model combines star schema performance with snowflake schema fle
 - **Python**: Custom data processing and validation
 - **SQL**: Complex analytical queries and transformations
 
-## 👤 Author
-
-**Bhagyashri Pagar** - Senior Data Architect & ETL Developer
-
 ## 🚀 Getting Started
 
 ### **Prerequisites**
@@ -307,9 +303,3 @@ cd IMDB-Data-Analysis-ETL-Pipeline
 
 
 
-<div align="center">
-  <p><strong>🎬 Advanced Entertainment Industry Analytics Solution</strong></p>
-  <p><em>Transforming massive entertainment datasets into strategic business intelligence</em></p>
-  
-  **⭐ Star this repository if you found it valuable! ⭐**
-</div>
